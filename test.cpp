@@ -1,6 +1,6 @@
 void testfcnc()
 {
-	printf("testtest");
+	printf("test");
 }
 
 void test()
