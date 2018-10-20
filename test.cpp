@@ -1,0 +1,4 @@
+void testfcnc()
+{
+	printf("test");
+}
